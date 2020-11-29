@@ -2,11 +2,11 @@
 
 在Gartic.io之中，自動選擇create theme，自動輸入已經準備好的題目。
 
-## 環境設置
+## Environment
 
-Python 3.8.5
-selenium 3.141.0
-[ChromeDriver 87.0.4280.20 linux 64](https://chromedriver.chromium.org/)
+* Python 3.8.5
+* selenium 3.141.0
+* [ChromeDriver 87.0.4280.20 linux 64](https://chromedriver.chromium.org/)
 
 ## 題目
 
@@ -23,7 +23,7 @@ selenium 3.141.0
 | -------- | -------- |
 | ![](https://i.imgur.com/TpJ8qVw.png) | ![](https://i.imgur.com/NQaTlqW.png) |
 
-## 執行程式
+## Code
 
 [source code](https://github.com/patrick0314/Gartic_auto_create_theme/blob/main/gartic.py)
 
