@@ -54,3 +54,5 @@ python3 gartic.py test@gmail.com password 7 pokemon.txt 1
 之後自行登入Gartic，即可看見創建主題。
 
 [demo video](https://www.youtube.com/watch?v=3N0nraxgUNI&ab_channel=%E9%BB%83%E7%85%9C%E5%A0%AF)
+
+###### tags: `github`
